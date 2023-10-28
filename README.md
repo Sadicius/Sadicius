@@ -6,11 +6,3 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Sadicius" alt="Typing SVG" /></a>
 
-<p align="left">
-  <a href="https://github.com/Sadicius/Sadicius">
-    <img src="https://komarev.com/ghpvc/?username=Sadicius&color=red" alt="profile views" />
-  </a>
-  <a href="https://github.com/Sadicius/Sadicius?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sadicius?color=yellow&logo=github">
-  </a>
-</p>
