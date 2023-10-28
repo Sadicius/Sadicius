@@ -4,9 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Sadicius" alt="Typing SVG" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sadicius&theme=dark)](https://git.io/streak-stats)
-
-
 <p align="left">
   <a href="https://github.com/Sadicius/Sadicius">
     <img src="https://komarev.com/ghpvc/?username=Sadicius&color=red" alt="profile views" />
