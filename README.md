@@ -4,5 +4,4 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Sadicius&theme=discord)
 ![](https://raw.githubusercontent.com/Sadicius/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Sadicius" alt="Typing SVG" /></a>
 
