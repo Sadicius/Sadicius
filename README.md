@@ -1,7 +1,6 @@
 
 <h2 align="center"># Profile</h2>
 <p align="center">
-<a href="https://github.com/Sadicius"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Sadicius&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
 <a href="https://linktr.ee/sadicius"><img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white"></a>
 </p><br>
 
