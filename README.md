@@ -1,4 +1,4 @@
-# Thanks
+# Profile
 [# See](https://linktr.ee/sadicius)
 - Community HDRP - Hunter Dice
   <p><a href="https://discord.gg/Vh3ufED3Hj">
