@@ -2,7 +2,7 @@
 <h2 align="center"># Profile</h2>
 <p align="center">
 <a href="https://linktr.ee/sadicius"><img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white"></a>
-</p><br>
+</p>
 #
 [- Community HDRP - Hunter Dice](https://discord.gg/Vh3ufED3Hj)
 [- Community RSG-Core](https://discord.gg/eW3ADkf4Af)
