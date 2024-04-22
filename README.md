@@ -1,8 +1,5 @@
 #
-<h2  ># Profile</h2>
-<p>
-<a href="https://linktr.ee/sadicius"><img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+<h2  ># Profile</h2><p><a href="https://linktr.ee/sadicius"><img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white"></a></p>
 
 - Community HDRP - Hunter Dice](https://discord.gg/Vh3ufED3Hj)
 - Community RSG-Core https://discord.gg/eW3ADkf4Af
