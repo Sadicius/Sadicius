@@ -5,8 +5,8 @@
 </p><br>
 
 <p align="center">
-- Community HDRP - Hunter Dice
-- Community RSG-Core
+[- Community HDRP - Hunter Dice](https://discord.gg/Vh3ufED3Hj)
+[- Community RSG-Core](https://discord.gg/eW3ADkf4Af)
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
