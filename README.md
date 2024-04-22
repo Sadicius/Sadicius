@@ -1,5 +1,16 @@
-https://linktr.ee/sadicius
 
+# Community HDRP - Hunter Dice
+  <p><a href="https://discord.gg/Vh3ufED3Hj">
+      <img src="https://img.shields.io/discord/813030955598086174?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
+
+# Community RSG-Core
+  <p><a href="https://discord.gg/eW3ADkf4Af">
+      <img src="https://img.shields.io/discord/813030955598086174?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
+
+
+[linktr](https://linktr.ee/sadicius)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
 <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /> <!-- wi*quL3fcV -->
