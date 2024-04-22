@@ -1,17 +1,19 @@
-# Profile
-[# See](https://linktr.ee/sadicius)
+
+<h2 align="center"># Profile</h2>
+<p align="center">
+<a href="https://github.com/Sadicius"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Sadicius&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
+<a href="https://linktr.ee/sadicius"><img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white"></a>
+</p><br>
+
+<p align="center">
 - Community HDRP - Hunter Dice
-  <p><a href="https://discord.gg/Vh3ufED3Hj">
-      <img src="https://img.shields.io/discord/813030955598086174?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
-  </a></p>
-
 - Community RSG-Core
-  <p><a href="https://discord.gg/eW3ADkf4Af">
-      <img src="https://img.shields.io/discord/813030955598086174?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
-  </a></p>
-
+</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
-
+#
+<h2 align="center"> Meet the Author:</h2>
+<p align="center">
 <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /> <!-- wi*quL3fcV -->
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&show_icons=true&theme=dark" /></a>
+</p>
