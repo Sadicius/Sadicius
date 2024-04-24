@@ -21,8 +21,7 @@
 
 <tr border="none">
 <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /> <!-- wi*quL3fcV -->
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&show_icons=true&theme=dark" /></a>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sadicius&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&show_icons=true&theme=dark" />
 </a>
 </p>
 </div>
