@@ -11,7 +11,8 @@
 - Community [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
 - Community [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
 - On **RSG Framework and others in REDM**
-- Ask me about **LUA, JS, CSS, MYSQL, HTML**
+- Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
+- Ask me about desing **IA, PS, AUTODESK, BLENDER and OTHERS**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
