@@ -13,6 +13,12 @@
   - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj) - RedM
   - [**RSG Framework | RSG-Core**](https://discord.gg/eW3ADkf4Af) - RedM
 
+
+<summary><h2>Ask me about: </h2></summary>
+
+  - Desing **AI, PS, AUTODESK, BLENDER and OTHERS**
+  - Dev **LUA, JS, CSS, MYSQL, HTML**
+
 <div id="user-content-toc">
      <summary><h2 style="display: inline-block">Technologies: </h2>
      </summary>
@@ -33,11 +39,6 @@
     </table>
   </ul>
 </div>
-
-<summary><h2>Ask me about: </h2></summary>
-
-  - Desing **AI, PS, AUTODESK, BLENDER and OTHERS**
-  - Dev **LUA, JS, CSS, MYSQL, HTML**
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
