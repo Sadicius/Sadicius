@@ -26,7 +26,6 @@
     <tr>
       <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /></td>
       <td><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&show_icons=true&theme=dark" /></td>
-      <td><img height="200px" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadicius&theme=dark&hide_border=false" /></td>
     </tr>
   </table>
 </div>
