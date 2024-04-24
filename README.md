@@ -8,15 +8,15 @@
   </p>
 </div>
 
-- Community [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
-- Community [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
-- On **RSG Framework and others in REDM**
-- Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
-- Ask me about desing **IA, PS, AUTODESK, BLENDER and OTHERS**
+<div align="center">
+<h1>- Community [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)</h1>
+<h1>- Community [**RSG-Core**](https://discord.gg/eW3ADkf4Af)</h1>
+<h1>- On **RSG Framework and others in REDM**</h1>
+<h1>- Ask me about dev **LUA, JS, CSS, MYSQL, HTML**</h1>
+<h1>- Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**</h1>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
-<div align="center">
   <table>
     <tr>
       <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /></td>
