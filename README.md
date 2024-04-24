@@ -8,7 +8,7 @@
   </p>
 </div>
 
-  <summary><p style="display: inline-block">Community´s: </p></summary>
+  <summary><h2>Community´s: </h2></summary>
 
   - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj) - RedM
   - [**RSG Framework | RSG-Core**](https://discord.gg/eW3ADkf4Af) - RedM
