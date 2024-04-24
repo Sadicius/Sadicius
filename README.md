@@ -4,6 +4,7 @@
     <a href="https://linktr.ee/sadicius">
     <img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white">
     </a>
+    <a> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW) </a>
   </ul>
   </p>
 </div>
@@ -40,7 +41,6 @@
   </ul>
 </div>
 
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
 <div align="center">
   <table>
