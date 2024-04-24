@@ -16,7 +16,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 #
 <div align="center">
-  <h2>Meet the Author:</h2>
   <table>
     <tr>
       <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /></td>
@@ -26,16 +25,11 @@
   </table>
 </div>
 
-
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,vscode&perline=14" />
+    </a>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,vscode&perline=14" />
-  </a>
-</p>
