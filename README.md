@@ -16,11 +16,8 @@
   - Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
-  
-<div ></div>
 
 <div align="center">
-
   <table>
     <tr>
       <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /></td>
