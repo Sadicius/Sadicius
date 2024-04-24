@@ -8,11 +8,10 @@
   </p>
 </div>
 
-  - Community REDM 
+  - Community´s
   - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
   - [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
-  - Community D4 
-  [**El Pacto Maldito**](https://discord.gg/crtwuqxJCz)
+  - [**El Pacto Maldito**](https://discord.gg/crtwuqxJCz)
 
   - On **RSG Framework and others in REDM**
   
