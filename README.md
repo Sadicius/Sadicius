@@ -10,12 +10,11 @@
 
   <summary><h2 style="display: inline-block">Community´s: </h2></summary>
 
-  - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
-  - [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
+  - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj) - RedM
+  - [**RSG Framework | RSG-Core**](https://discord.gg/eW3ADkf4Af) - RedM
   
   - Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**
   - Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
-  - On **RSG Framework and others in REDM**
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
