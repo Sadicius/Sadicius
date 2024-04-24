@@ -12,12 +12,10 @@
 
   - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
   - [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
-  - [**El Pacto Maldito**](https://discord.gg/crtwuqxJCz)
-
-  - On **RSG Framework and others in REDM**
   
   - Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**
   - Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
+  - On **RSG Framework and others in REDM**
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
