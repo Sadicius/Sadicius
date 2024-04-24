@@ -34,8 +34,10 @@
   </ul>
 </div>
 
-  - Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**
-  - Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
+<summary><h2>Ask me about: </h2></summary>
+
+  - Desing **AI, PS, AUTODESK, BLENDER and OTHERS**
+  - Dev **LUA, JS, CSS, MYSQL, HTML**
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 
