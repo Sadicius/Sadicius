@@ -36,10 +36,7 @@
           <img src="https://skillicons.dev/icons?i=discord,github,lua,vscode,html,js,css,mysql,arduino&perline=4" />
         </a></td>
          <td><a align="center" href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=autocad,blender,sketchup,unreal&perline=4" />
-        </a></td>
-         <td><a align="center" href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ai,ps,figma,gmail&perline=4" />
+          <img src="https://skillicons.dev/icons?i=autocad,blender,sketchup,unreal,ai,ps,figma,gmail&perline=4" />
         </a></td>
       </tr>
     </table>
