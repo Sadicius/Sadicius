@@ -27,11 +27,12 @@
 </div>
 
 <div id="user-content-toc">
+     <summary><h2 style="display: inline-block">Technologies: </h2>
+     </summary>
   <ul align="center">
     <table>
       <tr>
-        <td><summary><h2 style="display: inline-block">Technologies: </h2>
-        </summary></td>
+        <td></td>
         <td><a align="center" href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=discord,github,figma,gmail&perline=6" />
         </a></td>
