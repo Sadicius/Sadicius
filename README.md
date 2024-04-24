@@ -34,10 +34,10 @@
         </summary>
         <td><a align="center" href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,vscode&perline=14" />
-        </a></tr>
+        </a></td>
          <td><a align="center" href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=autocad,blender,sketchup,ai,ps,figma,gmail&perline=14" />
-        </a></tr>
+        </a></td>
       </tr>
     </table>
   </ul>
