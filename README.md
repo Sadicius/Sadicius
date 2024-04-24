@@ -19,6 +19,8 @@
   - Desing: **AI, PS, AUTODESK, BLENDER and OTHERS**
   - Dev: **LUA, JS, CSS, MYSQL, HTML**
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
+
 <div align="center">
   <table>
     <tr>
@@ -49,5 +51,3 @@
     </table>
   </ul>
 </div>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
