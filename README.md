@@ -27,9 +27,14 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary>
+    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,vscode&perline=14" />
     </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=autocad,blender,sketchup,ai,ps,figma,gmail&perline=14" />
+    </a>
+</summary>
   </ul>
 </div>
