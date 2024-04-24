@@ -29,7 +29,7 @@
   <ul align="center">
     <table>
       <tr>
-        <td><summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+        <td><summary><h2 style="display: inline-block">Technologies: </h2>
         </summary></td>
         <td><a align="center" href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,vscode&perline=14" />
