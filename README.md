@@ -16,16 +16,12 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
 #
 <div align=center>
-<h2 align="center"> Meet the Author:</h2>
-<p align="center">
-
-<tr border="none">
-<a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /> <!-- wi*quL3fcV -->
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&show_icons=true&theme=dark" />
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadicius&theme=dark&hide_border=false" /> 
-</a>
-</p>
+  <h2 align="center">Meet the Author:</h2>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=dark" /> <!-- wi*quL3fcV -->
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&show_icons=true&theme=dark" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadicius&theme=dark&hide_border=false" /> 
 </div>
+
 
 <div id="user-content-toc">
   <ul align="center">
