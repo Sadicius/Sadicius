@@ -14,7 +14,7 @@
 - Ask me about **LUA, JS, CSS, TS, HTML**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
-#
+
 <div align="center">
   <table>
     <tr>
