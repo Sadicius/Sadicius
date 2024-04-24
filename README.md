@@ -15,8 +15,8 @@
 
 <summary><h2>Ask me about: </h2></summary>
 
-  - Desing **AI, PS, AUTODESK, BLENDER and OTHERS**
-  - Dev **LUA, JS, CSS, MYSQL, HTML**
+  - Desing: **AI, PS, AUTODESK, BLENDER and OTHERS**
+  - Dev: **LUA, JS, CSS, MYSQL, HTML**
 
 <div align="center">
   <table>
