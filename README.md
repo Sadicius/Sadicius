@@ -8,8 +8,12 @@
   </p>
 </div>
 
-  - Community [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
-  - Community [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
+  - Community REDM 
+  - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
+  - [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
+  - Community D4 
+  [**El Pacto Maldito**](https://discord.gg/crtwuqxJCz)
+
   - On **RSG Framework and others in REDM**
   
   - Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**
