@@ -13,6 +13,7 @@
   - On **RSG Framework and others in REDM**
   - Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
   - Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**
+
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
   
 <div ></div>
