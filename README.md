@@ -8,7 +8,7 @@
   </p>
 </div>
 
-  - Community´s
+  <summary><h2 style="display: inline-block">Community´s: </h2>
   - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
   - [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
   - [**El Pacto Maldito**](https://discord.gg/crtwuqxJCz)
