@@ -8,11 +8,11 @@
   </p>
 </div>
 
-  <p>- Community [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)</p>
-  <p>- Community [**RSG-Core**](https://discord.gg/eW3ADkf4Af)</p>
-  <p>- On **RSG Framework and others in REDM**</p>
-  <p>- Ask me about dev **LUA, JS, CSS, MYSQL, HTML**</p>
-  <p>- Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**</p>
+  - Community [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
+  - Community [**RSG-Core**](https://discord.gg/eW3ADkf4Af)
+  - On **RSG Framework and others in REDM**
+  - Ask me about dev **LUA, JS, CSS, MYSQL, HTML**
+  - Ask me about desing **AI, PS, AUTODESK, BLENDER and OTHERS**
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5X6OMW)
   
 <div ></div>
