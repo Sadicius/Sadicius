@@ -33,7 +33,7 @@
         <td><summary><h2 style="display: inline-block">Technologies: </h2>
         </summary></td>
         <td><a align="center" href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,vscode&perline=14" />
+          <img src="https://skillicons.dev/icons?i=discord,github,lua,html,js,css,mysql,arduino,vscode&perline=14" />
         </a></td>
          <td><a align="center" href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=autocad,blender,sketchup,unreal,ai,ps,figma,gmail&perline=14" />
