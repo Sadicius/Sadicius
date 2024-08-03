@@ -10,8 +10,8 @@
 
   <summary><h2>Community´s: </h2></summary>
 
-  - [**Hunter Dice RP**](https://discord.gg/Vh3ufED3Hj)
-  - [**RSG Framework | RSG-Core**](https://discord.gg/eW3ADkf4Af)
+  - [**Cazadores de Dados RP (ES)**](https://discord.gg/Vh3ufED3Hj)
+  - [**RSG Framework | RSG-Core (EN)**](https://discord.gg/eW3ADkf4Af)
 
 <summary><h2>Ask me about: </h2></summary>
 
