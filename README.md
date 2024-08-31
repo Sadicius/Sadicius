@@ -10,6 +10,7 @@
 
   <summary><h2>Community´s: </h2></summary>
 
+  - [**Tebex**]([https://discord.gg/Vh3ufED3Hj](https://cazadores-de-dados-rp.tebex.io/))
   - [**Cazadores de Dados RP (ES)**](https://discord.gg/Vh3ufED3Hj)
   - [**RSG Framework | RSG-Core (EN)**](https://discord.gg/eW3ADkf4Af)
 
