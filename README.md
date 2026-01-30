@@ -12,10 +12,6 @@
 ```yaml
 name: Sadicius
 location: Spain
-currently_working_on:
-  - HDRP Framework for RedM
-  - RSG-Core contributions
-  - Custom RedM resources
  
 fun_fact: "I combine architecture with game development"
 ```
