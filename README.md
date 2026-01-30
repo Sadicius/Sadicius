@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=RedM+%26+RSG+Framework+Developer;3D+Artist+%26+Architect;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
- 
+
   <!-- Social badges -->
   <p>
     <a href="https://linktr.ee/sadicius">
@@ -21,9 +21,32 @@
     </a>
   </p>
  
-  <!-- Profile views -->
+   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=Sadicius&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
- 
+  
+ <table>
+   <tr>
+     <td align="center">
+       <a href="https://discord.gg/Vh3ufED3Hj">
+         <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
+       </a>
+       <br/><sub>Spanish RedM Roleplay Community</sub>
+     </td>
+     <td align="center">
+       <a href="https://discord.gg/eW3ADkf4Af">
+         <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
+       </a>
+       <br/><sub>RSG-Core Development & Support</sub>
+     </td>
+     <td align="center">
+       <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
+         <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
+       </a>
+       <br/><sub>Professional Architecture Portfolio</sub>
+     </td>
+   </tr>
+ </table>
+
 </div>
  
 ---
@@ -45,34 +68,7 @@ currently_working_on:
  
 fun_fact: "I combine architecture with game development"
 ```
- 
----
- 
-## 🚀 Communities
- 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://discord.gg/Vh3ufED3Hj">
-        <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
-      </a>
-      <br/><sub>Spanish RedM Roleplay Community</sub>
-    </td>
-    <td align="center">
-      <a href="https://discord.gg/eW3ADkf4Af">
-        <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
-      </a>
-      <br/><sub>RSG-Core Development & Support</sub>
-    </td>
-    <td align="center">
-      <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
-        <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
-      </a>
-      <br/><sub>Professional Architecture Portfolio</sub>
-    </td>
-  </tr>
-</table>
- 
+
 ---
  
 ## 💻 Tech Stack
