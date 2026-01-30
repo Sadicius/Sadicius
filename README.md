@@ -37,15 +37,9 @@ fun_fact: "I combine architecture with game development"
     <img src="https://komarev.com/ghpvc/?username=Sadicius&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 </div>
----
- 
-## 📊 GitHub Stats
- 
-
- 
 
 ---
-
+ 
 ## 💬 Ask Me About
 
 - **RedM Development**: RSG Framework, HDRP, custom resources
