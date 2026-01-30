@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=I+%26+combine+%26+architecture+%26+with+%26+game+%26+development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=I+%18+combine+%18+architecture+%26+with+%18+game+%26+development" alt="Typing SVG" />
   </a>
   
   <!-- Social badges -->
