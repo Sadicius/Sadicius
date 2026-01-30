@@ -7,39 +7,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=RedM+%26+RSG+Framework+Developer;3D+Artist+%26+Architect;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-
-  <!-- Social badges -->
-  <p>
-    <a href="https://linktr.ee/sadicius">
-      <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
-    </a>
-    <a href="https://cazadores-de-dados-rp.tebex.io/">
-      <img src="https://img.shields.io/badge/Tebex-Store-orange?style=for-the-badge" alt="Tebex"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Sadicius&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </p>
-
-  <!-- Comunnity badges -->
- <table>
-   <tr>
-     <td align="center">
-       <a href="https://discord.gg/Vh3ufED3Hj">
-         <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
-       </a>
-     </td>
-     <td align="center">
-       <a href="https://discord.gg/eW3ADkf4Af">
-         <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
-       </a>
-     </td>
-     <td align="center">
-       <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
-         <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
-       </a>
-     </td>
-   </tr>
- </table>
-
 </div>
  
 ---
@@ -61,6 +28,42 @@ currently_working_on:
  
 fun_fact: "I combine architecture with game development"
 ```
+
+<div align="center">
+
+  <!-- Comunnity badges -->
+ <table>
+   <tr>
+     <td align="center">
+       <a href="https://discord.gg/Vh3ufED3Hj">
+         <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://discord.gg/eW3ADkf4Af">
+         <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
+       </a>
+     </td>
+     <td align="center">
+       <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
+         <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
+       </a>
+     </td>
+   </tr>
+ </table>
+ 
+  <!-- Social badges -->
+  <p>
+    <a href="https://linktr.ee/sadicius">
+      <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+    </a>
+    <a href="https://cazadores-de-dados-rp.tebex.io/">
+      <img src="https://img.shields.io/badge/Tebex-Store-orange?style=for-the-badge" alt="Tebex"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Sadicius&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </p>
+
+</div>
 
 ---
  
