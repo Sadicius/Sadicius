@@ -16,9 +16,6 @@
     <a href="https://discord.gg/Vh3ufED3Hj">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="https://ko-fi.com/P5P5X6OMW">
-      <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-    </a>
     <a href="https://cazadores-de-dados-rp.tebex.io/">
       <img src="https://img.shields.io/badge/Tebex-Store-orange?style=for-the-badge" alt="Tebex"/>
     </a>
@@ -55,21 +52,19 @@ fun_fact: "I combine architecture with game development"
  
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <a href="https://discord.gg/Vh3ufED3Hj">
         <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
       </a>
       <br/><sub>Spanish RedM Roleplay Community</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <a href="https://discord.gg/eW3ADkf4Af">
         <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
       </a>
       <br/><sub>RSG-Core Development & Support</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
         <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
       </a>
@@ -98,7 +93,7 @@ fun_fact: "I combine architecture with game development"
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
- 
+
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
