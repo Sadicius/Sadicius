@@ -12,7 +12,6 @@
 ```yaml
 name: Sadicius
 location: Spain
-roles: RedM Developer (RSG Framework) / Architect & 3D Designer / UI/UX Designer
 currently_working_on:
   - HDRP Framework for RedM
   - RSG-Core contributions
