@@ -7,14 +7,7 @@
   </a>
 </div>
  
-## 🧑‍💻 About Me
- 
-```yaml
-name: Sadicius
-location: Spain
- 
-fun_fact: "I combine architecture with game development"
-```
+## 🧑‍💻 About Me "I combine architecture with game development"
 
 <div align="center">
   <!-- Social badges -->
