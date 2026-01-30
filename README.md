@@ -30,19 +30,16 @@
        <a href="https://discord.gg/Vh3ufED3Hj">
          <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
        </a>
-       <br/><sub>Spanish RedM Roleplay Community</sub>
      </td>
      <td align="center">
        <a href="https://discord.gg/eW3ADkf4Af">
          <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
        </a>
-       <br/><sub>RSG-Core Development & Support</sub>
      </td>
      <td align="center">
        <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
          <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
        </a>
-       <br/><sub>Professional Architecture Portfolio</sub>
      </td>
    </tr>
  </table>
