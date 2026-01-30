@@ -66,7 +66,7 @@ fun_fact: "I combine architecture with game development"
  
 ## 💻 Tech Stack
  
-<div align="center">
+<div>
  
 ### Development
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
