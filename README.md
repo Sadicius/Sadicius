@@ -13,17 +13,13 @@
     <a href="https://linktr.ee/sadicius">
       <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
     </a>
-    <a href="https://discord.gg/Vh3ufED3Hj">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
     <a href="https://cazadores-de-dados-rp.tebex.io/">
       <img src="https://img.shields.io/badge/Tebex-Store-orange?style=for-the-badge" alt="Tebex"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Sadicius&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
- 
-   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=Sadicius&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  
+
+  <!-- Comunnity badges -->
  <table>
    <tr>
      <td align="center">
