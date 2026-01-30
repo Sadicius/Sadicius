@@ -12,11 +12,7 @@
 ```yaml
 name: Sadicius
 location: Spain
-roles:
-  - RedM Developer (RSG Framework)
-  - Architect & 3D Designer
-  - UI/UX Designer
- 
+roles: RedM Developer (RSG Framework) / Architect & 3D Designer / UI/UX Designer
 currently_working_on:
   - HDRP Framework for RedM
   - RSG-Core contributions
@@ -74,6 +70,5 @@ fun_fact: "I combine architecture with game development"
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,autocad,sketchup&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,github,discord&perline=3&theme=dark" /> |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
 </div>
  
