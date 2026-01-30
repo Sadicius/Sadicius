@@ -32,21 +32,15 @@ fun_fact: "I combine architecture with game development"
   <!-- Comunnity badges -->
  <table>
    <tr>
-     <td align="center">
-       <a href="https://discord.gg/Vh3ufED3Hj">
-         <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
-       </a>
-     </td>
-     <td align="center">
-       <a href="https://discord.gg/eW3ADkf4Af">
-         <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
-       </a>
-     </td>
-     <td align="center">
-       <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
-         <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
-       </a>
-     </td>
+      <a href="https://discord.gg/Vh3ufED3Hj">
+        <img src="https://img.shields.io/badge/🎮_Cazadores_de_Dados_RP-Spanish_Community-5865F2?style=for-the-badge" alt="CDD"/>
+      </a>
+      <a href="https://discord.gg/eW3ADkf4Af">
+        <img src="https://img.shields.io/badge/⚙️_RSG_Framework-English_Community-5865F2?style=for-the-badge" alt="RSG"/>
+      </a>
+      <a href="https://www.houzz.es/profesionales/arquitectos/g-larq-arquitectura-y-diseno-pfvwes-pf~1956791369">
+        <img src="https://img.shields.io/badge/🏛️_G--LARQ-Architecture_&_Design-1a1a2e?style=for-the-badge" alt="Architecture"/>
+      </a>
    </tr>
  </table>
  
@@ -63,8 +57,25 @@ fun_fact: "I combine architecture with game development"
 
 </div>
 
+ 
 ---
  
+## 📊 GitHub Stats
+ 
+
+ 
+
+---
+ 
+## 💬 Ask Me About
+ 
+- **RedM Development**: RSG Framework, HDRP, custom resources
+- **Game Assets**: 3D models, maps, UI/UX for RedM/FiveM
+- **Architecture**: Professional architectural design & visualization
+- **Design Tools**: Photoshop, Illustrator, Blender, AutoCAD
+ 
+---
+
 ## 💻 Tech Stack
  
 <div>
@@ -88,55 +99,6 @@ fun_fact: "I combine architecture with game development"
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
- 
-</div>
- 
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadicius&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadicius&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadicius&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
- 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadicius&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
- 
----
- 
-## 🎯 Featured Projects
- 
-<div align="center">
-  <a href="https://github.com/Sadicius/hdrp-pets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadicius&repo=hdrp-pets&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
-  </a>
-</div>
- 
----
- 
-## 💬 Ask Me About
- 
-- **RedM Development**: RSG Framework, HDRP, custom resources
-- **Game Assets**: 3D models, maps, UI/UX for RedM/FiveM
-- **Architecture**: Professional architectural design & visualization
-- **Design Tools**: Photoshop, Illustrator, Blender, AutoCAD
- 
----
- 
-<div align="center">
- 
-### 💖 Support My Work
- 
-<a href="https://ko-fi.com/P5P5X6OMW">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"/>
-</a>
  
 </div>
  
