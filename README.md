@@ -73,8 +73,6 @@ fun_fact: "I combine architecture with game development"
 - **Game Assets**: 3D models, maps, UI/UX for RedM/FiveM
 - **Architecture**: Professional architectural design & visualization
 - **Design Tools**: Photoshop, Illustrator, Blender, AutoCAD
- 
----
 
 ## 💻 Tech Stack
  
@@ -100,8 +98,6 @@ fun_fact: "I combine architecture with game development"
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
 </div>
  
----
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
