@@ -5,11 +5,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=RedM+%26+RSG+Framework+Developer;3D+Artist+%26+Architect;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-</div>
- 
-## 🧑‍💻 About Me
-
-<div align="center">
   
   <!-- Social badges -->
   <p>
