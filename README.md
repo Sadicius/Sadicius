@@ -75,6 +75,16 @@ fun_fact: "I combine architecture with game development"
 - **Design Tools**: Photoshop, Illustrator, Blender, AutoCAD
 
 ## 💻 Tech Stack
+
+<div align="center">
+
+| 👨‍💻 **Development** | 🎨 **Design & 3D** | 🛠️ **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,autocad,sketchup&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,github,discord&perline=3&theme=dark" /> |
+
+</div>
+
+## 💻 Tech Stack
  
 <div>
  
