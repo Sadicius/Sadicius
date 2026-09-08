@@ -52,7 +52,7 @@
 
 | 👨‍💻 **Development** | 🎨 **Design & 3D** | 🛠️ **Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,autocad,sketchup&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,github,discord&perline=3&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=py,ipynb,.json,ymal,lua,js,html,css,mysql&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=md,docx,xlxs,pptx,ps,ai,figma,blender,autocad,sketchup&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,github,discord&perline=3&theme=dark" /> |
 
 </div>
  
