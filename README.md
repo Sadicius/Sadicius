@@ -51,7 +51,7 @@
 <div align="center">
 
 ### 👨‍💻 Development & Frameworks
-<img src="https://skillicons.dev/icons?i=py,ipynb,js,ts,react,threejs,html,css,lua,mysql&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,threejs,html,css,lua,mysql&perline=10&theme=dark" />
 
 <br />
 
