@@ -50,18 +50,18 @@
 
 <div align="center">
 
-### 👨‍💻 Development & Frameworks
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,threejs,html,css,lua,mysql&perline=10&theme=dark" />
+### 👨‍💻 Code, Libraries & Databases
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,vue,threejs,fastapi,nodejs,html,css,lua,aiscript,mysql,bash&perline=8&theme=dark" />
 
 <br />
 
-### 🎨 Design, CAD & 3D
-<img src="https://skillicons.dev/icons?i=autocad,sketchup,blender,figma,ps,ai&perline=6&theme=dark" />
+### 🎨 Design, CAD & Game Engines
+<img src="https://skillicons.dev/icons?i=autocad,sketchup,blender,godot,figma,ps,ai,svg&perline=8&theme=dark" />
 
 <br />
 
-### 🛠️ Data, Configs & Environment
-<img src="https://skillicons.dev/icons?i=md,vscode,github,discord&perline=6&theme=dark" />
+### 🛠️ DevOps, Tools & Workspace
+<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,vercel,npm,notion,md,bots,discord,gmail&perline=8&theme=dark" />
 
 </div>
  
