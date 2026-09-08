@@ -50,9 +50,18 @@
 
 <div align="center">
 
-| 👨‍💻 **Development** | 🎨 **Design & 3D** | 🛠️ **Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=py,ipynb,.json,ymal,lua,js,html,css,mysql&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=md,docx,xlxs,pptx,ps,ai,figma,blender,autocad,sketchup&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,github,discord&perline=3&theme=dark" /> |
+### 👨‍💻 Development & Frameworks
+<img src="https://skillicons.dev/icons?i=py,ipynb,js,ts,react,threejs,html,css,lua,mysql&perline=10&theme=dark" />
+
+<br />
+
+### 🎨 Design, CAD & 3D
+<img src="https://skillicons.dev/icons?i=autocad,sketchup,blender,figma,ps,ai&perline=6&theme=dark" />
+
+<br />
+
+### 🛠️ Data, Configs & Environment
+<img src="https://skillicons.dev/icons?i=md,vscode,github,discord&perline=6&theme=dark" />
 
 </div>
  
