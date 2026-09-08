@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Sadicius&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Architect%20|%20Designer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=R.GarciaLouzao&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Architect%20|%20Designer&descAlignY=55&descSize=18"/>
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=RedM+%26+RSG+Framework+Developer;3D+Artist+%26+Architect;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
