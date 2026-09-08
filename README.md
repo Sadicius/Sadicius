@@ -61,7 +61,7 @@
 <br />
 
 ### 🛠️ DevOps, Tools & Workspace
-<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,vercel,npm,notion,md,bots,discord,gmail&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,docker,vercel,notion,md,discord,gmail&perline=8&theme=dark" />
 
 </div>
  
